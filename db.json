@@ -1,0 +1,30 @@
+{
+	"credits": [{
+			"date": "20-05-2018",
+			"action": "Your referral booked",
+			"credits": "100",
+			"status": "Approved"
+		},
+		{
+			"date": "15-07-2018",
+			"action": "You booked a flight/yacht",
+			"credits": "100",
+			"status": "Approved"
+		}
+
+	],
+
+	"rewards": [{
+			"date": "20-05-2018",
+			"reward": "follow on Instagram",
+			"points": "50",
+			"status": "Approved"
+		},
+		{
+			"date": "15-07-2018",
+			"reward": "share on Facebook",
+			"credits": "200",
+			"status": "Approved"
+		}
+	]
+}
